@@ -1,0 +1,164 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: #faf3f5;
+    margin: 50px auto;
+    padding: 30px;
+    color: #d64161;
+    border-color: #000;
+    border-style: double;
+}
+
+
+
+.photo {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    border-color: #d64161;
+    margin-right: 20px;
+}
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+}
+
+.name {
+    margin-bottom: -5px;
+}
+.job-title {
+    display: inline-block;
+}
+
+.contact-details {
+    background: #f0859c;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+.container {
+    padding-left: 150px;
+  }
+  .projects {
+    padding-left: 150px;
+    color: #000;
+    line-height: 200%;
+  }
+
+  
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    color: #000;
+  }
+
+.gh{
+    align-items: center;
+    padding-right: 0;
+}
+
+
+
+#objective h3 {
+    border: 1px solid #d3d3d3;
+    border-color: #960726;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#objective p {
+    padding: 0 5px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education h3 {
+    border: 1px solid #d3d3d3;
+    border-color: #960726;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#education table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education table tr.school-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#education table tr.school-2 td:first-child {
+    padding-bottom: 25px;
+}
+
+#skills h3 {
+    border: 1px solid #d3d3d3;
+    border-color: #960726;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#skills table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#skills table tr.work-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#skills table tr.work-1 td {
+    padding-bottom: 25px;
+}
+
+#skills table tr.work-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#project h3 {
+    border: 1px solid #d3d3d3;
+    border-color: #960726;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#project table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#project table tr td:first-child {
+    width: 200px;
+}
+
+#project table tr td:nth-child(2) {
+    width: 300px;
+}
+
